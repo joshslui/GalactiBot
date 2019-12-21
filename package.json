@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TsjipTsjip/Ennard.git"
+    "url": "git+https://github.com/joshslui/GalactiBot"
   },
   "author": "TsjipTsjip",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TsjipTsjip/Ennard/issues"
+    "url": "https://github.com/joshslui/GalactiBot/issues"
   },
-  "homepage": "https://github.com/TsjipTsjip/Ennard#readme",
+  "homepage": "https://github.com/joshslui/GalactiBot#readme",
   "dependencies": {
     "bufferutil": "^3.0.3",
     "chalk-cli": "^4.0.0",
